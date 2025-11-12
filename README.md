@@ -1,4 +1,19 @@
-## Hi there 👋
+note:
+> i dont knoww how keen github security is
+> 
+> it might be managed by microsoft yea but i won't say what happenned in fear
+> 
+> you can already guess wat happened in my bio
+> 
+> anyways
+
+
+# hi!
+my name is 
+python and i have in interest in computers or whatever \[not a showoff amount of interest thoug, im still learnig :( ]
+anyways, i like niche shit like <a href="https://github.com/LazoVelko/Windows-Hacks">this</a>, its really interesting :3
+i also have a website (which i am not afraid to say that i vibecoded on a bit, bear with me here) which, is on a seperate github instance due to some.... complications..... 
+my discord is @www.python.org
 
 <!--
 **iinfernu/iinfernu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
