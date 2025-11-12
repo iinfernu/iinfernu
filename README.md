@@ -14,7 +14,7 @@ python and i have in interest in computers or whatever \[not a showoff amount of
 <br>
 anyways, i like niche shit like <a href="https://github.com/LazoVelko/Windows-Hacks">this</a>, its really interesting :3
 <br>
-i also have a website (which i am not afraid to say that i vibecoded on a bit, bear with me here) which, is on a seperate github instance due to some.... complications..... 
+i also have a website (which i am not afraid to say that i vibecoded on a bit, bear with me here) which, is on a seperate github instance due to some.... complications..... (https://pythons.site | https://git.sofftkittypa.ws/www.python.org/patience-he-will-arrive-soon)
 <br>
 my discord is @www.python.org
 
