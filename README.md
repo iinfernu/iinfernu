@@ -16,6 +16,8 @@ i also have a website (which i am not afraid to say that i vibecoded on a bit, b
 <br>
 my discord is @www.python.org
 
+# I LIKE HTML PORTS
+
 <!--
 **iinfernu/iinfernu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
