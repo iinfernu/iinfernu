@@ -3,8 +3,6 @@ note:
 > 
 > it might be managed by microsoft yea but i won't say what happenned in fear
 > 
-> you can already guess wat happened in my bio
-> 
 > anyways
 
 
@@ -22,7 +20,7 @@ my discord is @www.python.org
 **iinfernu/iinfernu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🤔 what is this diddyblud doing on the calculator is blud, einstein?
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
